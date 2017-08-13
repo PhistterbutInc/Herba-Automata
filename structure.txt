@@ -1,0 +1,11 @@
+config file has the settings for firmware
+
+sensor related
+
+readSensor
+addSensor
+
+
+addRelay
+setRelay
+
