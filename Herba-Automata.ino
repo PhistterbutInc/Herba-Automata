@@ -34,8 +34,9 @@
  * 
  * Hardware Planned/Required:
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~
- * Arduino board, Req. 
- * Soil moisture sensor, Req.
+ * Arduino board
+ * Soil moisture sensor
+ * Real time clock (premade OTS comp. or IC???)
  * Relay/s, Required for water/light control
  * Photosistor, Optional
  * Air temp./Humidity sensor, Optional
