@@ -38,7 +38,7 @@
  * Soil moisture sensor
  * Real time clock (premade OTS comp. or IC???)
  * Relay/s, Required for water/light control
- * Photosistor, Optional
+ * Photoresistor, Optional, for logging sun data
  * Air temp./Humidity sensor, Optional
  * 
  * 
