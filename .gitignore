@@ -9,3 +9,17 @@ Herba-Automata/__Previews/Herba-Automata.SchDocPreview
 Herba-Automata/History/Herba-Automata.~(11).SchDoc.Zip
 *.Zip
 Herba-Automata/herba-automata.PcbLib
+*.LOG
+*.PrjPcbStructure
+*.PcbDoc
+*.APR_LIB
+*.apr
+*.REP
+*.html
+*.RUL
+Herba-Automata/Project Outputs for Herba-Automata/Net Status - Herba-Automata.txt
+Herba-Automata/Project Outputs for Herba-Automata/Status Report.Txt
+Herba-Automata_proto_board.gcode
+*.EXTREP
+*.PcbDocPreview
+*.drc

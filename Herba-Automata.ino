@@ -12,15 +12,15 @@
  * indoor/outdoor farming using embedded systems
  * 
  * Released under MIT license.
- * Distibute/modify freely with attribution
+ * Distibute/modify freely with attribution, no commercial use.
  * 
  * 
  * Planned Features:
  * ~~~~~~~~~~~~~~~~~
- * support for multiple Arduino based boards (nano, mega, pro and duo at least)
+ * support for arduino nano only, for right now. More to come perhaps
  * 
  * sensor interaction, including
- * daylight, moisture, air temp, humidity, maybe soil temp (cheap source?)
+ * daylight, soil moisture, air temp, humidity, maybe soil temp (cheap source?) sensors
  * 
  * relay interaction for lights and irrigation
  * 
@@ -31,6 +31,8 @@
  * internet capabilities, web page?
  * 
  * LCD screen support: 16x2, 16x4 i2c modules
+ * 
+ * real time clock for data logging
  * 
  * Hardware Planned/Required:
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~
