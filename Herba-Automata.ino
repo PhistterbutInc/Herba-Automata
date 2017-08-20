@@ -43,6 +43,8 @@
  * Photoresistor, Optional, for logging sun data
  * Air temp./Humidity sensor, Optional
  * 
+ * TODO: revise this section
+ * 
  * 
  *
  * 

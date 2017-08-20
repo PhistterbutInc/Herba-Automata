@@ -23,3 +23,6 @@ Herba-Automata_proto_board.gcode
 *.EXTREP
 *.PcbDocPreview
 *.drc
+*.OutJob
+Herba-Automata.PrjPcb
+*.NET
