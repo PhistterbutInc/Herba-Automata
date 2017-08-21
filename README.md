@@ -1,5 +1,17 @@
 # Herba-Automata
-An Arduino based project for easy setup of automated gardens
+
+An Arduino based project for easy set up of automated plant food cycle control
+and data collection
+
+Project includes 3d printing, embedded systems and good ole down home gardening.
+
+Contributors welcome and will receive appropriate status reflection on related project pages.
+STL files produced and submitted are to be branded with project name "Herba-Automata" and 
+name of contributor, however they want to be listed. Branding not to interfere with function.
+
+
+
+
 
 NEWS:
 ~~~~~
