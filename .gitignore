@@ -6,3 +6,22 @@ Herba-Automata/History/Herba-Automata.~(1).SCHLIB.Zip
 Herba-Automata/History/Herba-Automata.~(1).SchDoc.Zip
 Herba-Automata/Herba-Automata.SCHLIB
 Herba-Automata/__Previews/Herba-Automata.SchDocPreview
+*.Zip
+*.LOG
+*.html
+*.PcbLib
+*.PrjPcbStructure
+*.APR_LIB
+*.PcbDocPreview
+*.OutJob
+*.NET
+*.PcbDoc
+*.drc
+*.apr
+*.EXTREP
+*.REP
+*.RUL
+Herba-Automata/Project Outputs for Herba-Automata/Net Status - Herba-Automata.txt
+Herba-Automata/Project Outputs for Herba-Automata/Status Report.Txt
+*.gcode
+Herba-Automata.PrjPcb
