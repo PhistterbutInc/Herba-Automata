@@ -5,17 +5,13 @@
 //
 
 // measurement config
-#define tempNotation f // farenheit or celcius, f or c, default f
-#define sensorReadTime 60 // time between sensor reads in seconds
+#define TEMP_NOTATION F // farenheit or celcius, f or c, default f
+#define SENSOR_READ_TIME 60 // time between sensor reads in seconds
 
 //
 // sensors config
-#define dhtNum 1 // number of humidity/temp sensors
-#define soilSenseNum 1 // number of soil moisture sensors
-#define relayNum 4 // number of relays
-#define dhtType 11 // the type of dht, 11, 22, or 21
-
+#define TYPE_OF_DHT 11
 
 //
-// 
-#define
+// board select
+#define BOARD 1 // BOARD 1 = nano
